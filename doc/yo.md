@@ -1,4 +1,8 @@
-# Pablo Pandolfo
+# Presentación
+
+![Presentación](../img/aw_taller_presentacion.png)
+
+## Pablo Pandolfo
 
 * Ingeniero en Informática (UM)
 * Master en Tecnología Informática y Comunicaciones (UADE)

@@ -26,6 +26,8 @@
 
 <br>
 
-* [Presentación](doc/yo.md)
-* [Programación Web](doc/pweb.md)
-* [Accesibilidad Web](doc/a11y.md)
+![Agenda](img/aw_taller_agenda.jpg)
+
+1. [Presentación](doc/yo.md)
+1. [Programación Web](doc/pweb.md)
+1. [Accesibilidad Web](doc/a11y.md)
