@@ -28,11 +28,11 @@
 
 <div align="center">
   <h1>Agenda</h1>
-  <img src="img/aw_taller_agenda.jpg" width="300" alt="Agenda"/>
+  <img src="img/aw_taller_agenda.jpg" width="500" alt="Agenda"/>
   <br>
   <ul>
-    <a href="doc/yo.md">1. Presentación | </a>
-    <a href="doc/pweb.md">2. Programación Web | </a>
-    <a href="doc/a11y.md">3. Accesibilidad Web </a>
+    <a href="doc/yo.md">1. Presentación</a>  |
+    <a href="doc/pweb.md">2. Programación Web</a>  |
+    <a href="doc/a11y.md">3. Accesibilidad Web</a>
   </ol>
 </div>
