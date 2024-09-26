@@ -7,13 +7,15 @@
 
 <div align="center">
   <h2>EXPO-UNO 2024</h2>
-  <h3>Feria de Carreras</h3>
+  <h2>Feria de Carreras</h2>
+  <h2>Charla: "TECNOLOGÍAS WEB"</h2>
 
 </div>
 
 ---
 
 <div align="center">
+<br>
 <div><img src="img/yo.jpeg" width="50"/></div>
 <div><h3>Mg. Ing. Pablo Pandolfo</h3></div>
 </div>
