@@ -2,39 +2,33 @@
 
 ## Sistema de Información
 
-Es un conjunto de componentes interrelacionados que trabajan juntos para recopilar, procesar, almacenar y difundir información para apoyar la toma de decisiones. Además apoyan la coordinación, control, análisis y visualización de una organización
-
 ![SI](../img/bd-si.png)
 
-![Elementos](../img/elementos-si.jpg)
+* **Elementos**:
+
+  ![Elementos](../img/elementos-si.jpg)
 
 ## Etapas en el desarrollo de un proyecto web
 
-1. **Planificación**: documenta los requerimientos del proyecto y las tecnologías a utilizar
-1. **UX/UI**: define los flujos e interacción del usuario y diseña la interfaz gráfica
-1. **Desarrollo**: desarrolla la UI, la BD y la lógica de la app
-1. **Despliegue**: verifica que el proyecto cumple con los requerimientos y se sube a producción
-1. **Soporte**: se corrigen errores no detectados en el desarrollo de la aplicación
+1. **Planificación**
+1. **UX/UI**
+1. **Desarrollo**
+1. **Despliegue**
+1. **Soporte**
 
-![Meme](../img/meme.jpg)
+    ![Meme](../img/meme.jpg)
 
 ## Desarrollo Web
 
-Dar soluciones efectivas y creativas a los problemas que surjan en el ámmbito laboral en beneficio de la sociedad en su conjunto
-
-|||
-| -- | -- |
-| **frontend** | es la parte encargada del lado del cliente (lo que se observa en pantalla) |
-| **backend**  | es la parte encargada del lado del servidor (no es visible) |
+Dar soluciones efectivas y creativas a los problemas que surjan en el ámbito laboral en beneficio de la sociedad en su conjunto
 
 ![Iceberg](../img/iceberg.jpeg)
 
-## Testing automático
+## QA Automation
 
-* **QA**: La finalidad es pulir al máximo el control de errores, para entregar un producto lo más cercano a la perfección
-* **QA automation**: Pone entre el tester y la aplicación de software un programa diseñado para controlar la ejecución de pruebas, y comparar de manera más rápida los resultados obtenidos y los resultados esperados
+Pone entre el tester y la aplicación de software un programa diseñado para controlar la ejecución de pruebas, y comparar de manera más rápida los resultados obtenidos y los resultados esperados
 
-  ![Pirámide](../img/piramide_qa1.png)
+![Pirámide](../img/piramide_qa1.png)
 
 ## Despliegue
 
@@ -50,3 +44,12 @@ Es el proceso de llevar los cambios o nuevas funcionalidades de los equipos loca
 | E-commerce de Indumentaria | Ezequiel Fidalgo | [https://luvanay-frontend.onrender.com/womens](https://luvanay-frontend.onrender.com/womens) |
 | Gestión de comentarios a CV online | Nicolas Agnessi Vuelta | [https://app-comentarios.onrender.com/](https://app-comentarios.onrender.com/) |
 | Sistema de registro de buques de interés | Marcelo Hernandez | [https://final-iy62.onrender.com/](https://final-iy62.onrender.com/) |
+
+<br>
+<br>
+
+---
+
+<div align="right">
+ <a href="a11y.md">Accesibilidad Web ></a>
+</div>

@@ -42,5 +42,5 @@
 ---
 
 <div align="right">
- <a href="doc/pweb.md">Programación Web ></a> 
+ <a href="pweb.md">Programación Web ></a>
 </div>
